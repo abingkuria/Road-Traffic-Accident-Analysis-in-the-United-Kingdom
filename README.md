@@ -2,11 +2,14 @@
 Final Projects of Entri
 
 Project Title:
-Road Traffic Accident Analysis in the United Kingdom
+Road Traffic Accident Analysis in the United Kingdom.
+
 📝 Project Overview:
         Road accidents remain a major safety concern in the United Kingdom. Every year, thousands of incidents result in injuries, fatalities, and property damage. This project focuses on analyzing UK road accident data to uncover patterns and causes behind these incidents.
 
+
 Key aspects include:
+
   📅 Time-based trends – Analyze accidents by hour, day, and time of day (e.g., night, morning).
   🌧️ Weather and road surface conditions – Assess how environmental factors affect risk.
   ⚠️ Carriageway hazards – Study the role of hazards like obstructions or roadworks.
