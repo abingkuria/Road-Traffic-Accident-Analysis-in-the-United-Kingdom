@@ -9,7 +9,6 @@ Road Traffic Accident Analysis in the United Kingdom.
 
 
 Key aspects include:
-
   📅 Time-based trends – Analyze accidents by hour, day, and time of day (e.g., night, morning).
   🌧️ Weather and road surface conditions – Assess how environmental factors affect risk.
   ⚠️ Carriageway hazards – Study the role of hazards like obstructions or roadworks.
@@ -29,7 +28,7 @@ Key aspects include:
   📊 Visualize key trends and accident hotspots using charts and graphs.
   🎯 Draw insights and provide recommendations to reduce road accidents.
 
-📅 Scope of the Project
+📅 Scope of the Project:
   📥 Data Loading and Preliminary Analysis.
   🧬 Data Pre-processing and Cleaning.
   📈 Exploratory Data Analysis (EDA).
