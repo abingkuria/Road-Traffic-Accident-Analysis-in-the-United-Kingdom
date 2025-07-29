@@ -4,11 +4,11 @@ Final Projects of Entri
 **Project Title:**
 Road Traffic Accident Analysis in the United Kingdom.
 
-📝 Project Overview:
+**📝 Project Overview:**
         Road accidents remain a major safety concern in the United Kingdom. Every year, thousands of incidents result in injuries, fatalities, and property damage. This project focuses on analyzing UK road accident data to uncover patterns and causes behind these incidents.
 
 
-Key aspects include:
+**Key aspects include:**
   📅 Time-based trends – Analyze accidents by hour, day, and time of day (e.g., night, morning).
   🌧️ Weather and road surface conditions – Assess how environmental factors affect risk.
   ⚠️ Carriageway hazards – Study the role of hazards like obstructions or roadworks.
@@ -17,7 +17,7 @@ Key aspects include:
   🎯 Goal – Support policymakers and the public in making roads safer through insights.
 
 
-🧩 Project Objectives:
+**🧩 Project Objectives:**
   🧹 Clean and preprocess the road accident dataset for consistent and usable formats.
   ⏰ Extract time-based features like hour, day, and time segments (morning, night, etc.).
   📈 Analyze accident distributions across:
@@ -28,14 +28,14 @@ Key aspects include:
   📊 Visualize key trends and accident hotspots using charts and graphs.
   🎯 Draw insights and provide recommendations to reduce road accidents.
 
-📅 Scope of the Project:
+**📅 Scope of the Project:**
   📥 Data Loading and Preliminary Analysis.
   🧬 Data Pre-processing and Cleaning.
   📈 Exploratory Data Analysis (EDA).
   📊 Generation of Visualizations.
   📝 Reports, Insights and Predictions.
 
-⚙️ Tools and Technologies Used:
+**⚙️ Tools and Technologies Used:**
   📌 Python – Core programming language for data processing and analysis.
   📊 Pandas – For data manipulation, cleaning, and transformation.
   📈 Matplotlib & Seaborn – Used for generating plots and visualizing trends, distributions, and correlations.
