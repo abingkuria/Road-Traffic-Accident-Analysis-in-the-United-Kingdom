@@ -1,7 +1,7 @@
 # Road-Traffic-Accident-Analysis-in-the-United-Kingdom
 Final Projects of Entri
 
-Project Title:
+**Project Title:**
 Road Traffic Accident Analysis in the United Kingdom.
 
 📝 Project Overview:
