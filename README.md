@@ -10,38 +10,38 @@ Road Traffic Accident Analysis in the United Kingdom.
 
 **Key aspects include:**
   
-  📅 Time-based trends – Analyze accidents by hour, day, and time of day (e.g., night, morning).
+          📅 Time-based trends – Analyze accidents by hour, day, and time of day (e.g., night, morning).
 
-  🌧️ Weather and road surface conditions – Assess how environmental factors affect risk.
+          🌧️ Weather and road surface conditions – Assess how environmental factors affect risk.
   
-  ⚠️ Carriageway hazards – Study the role of hazards like obstructions or roadworks.
+          ⚠️ Carriageway hazards – Study the role of hazards like obstructions or roadworks.
   
-  🧹 Data cleaning & preprocessing – Handle missing values, inconsistent formats, and noise.
+          🧹 Data cleaning & preprocessing – Handle missing values, inconsistent formats, and noise.
   
-  📊 Visual storytelling – Use graphs and summaries to communicate findings clearly.
+          📊 Visual storytelling – Use graphs and summaries to communicate findings clearly.
   
-  🎯 Goal – Support policymakers and the public in making roads safer through insights.
+          🎯 Goal – Support policymakers and the public in making roads safer through insights.
 
 
 **🧩 Project Objectives:**
 
-  🧹 Clean and preprocess the road accident dataset for consistent and usable formats.
+          🧹 Clean and preprocess the road accident dataset for consistent and usable formats.
 
-  ⏰ Extract time-based features like hour, day, and time segments (morning, night, etc.).
+          ⏰ Extract time-based features like hour, day, and time segments (morning, night, etc.).
   
-  📈 Analyze accident distributions across:
+          📈 Analyze accident distributions across:
   
-      🕐 Time of day
+                      🕐 Time of day
       
-      📅 Day of the week
+                      📅 Day of the week
       
-      🌧️ Weather conditions
-      
-      ⚠️ Road and hazard conditions
+                      🌧️ Weather conditions
+              
+              ⚠️ Road and hazard conditions
   
-  📊 Visualize key trends and accident hotspots using charts and graphs.
+          📊 Visualize key trends and accident hotspots using charts and graphs.
   
-  🎯 Draw insights and provide recommendations to reduce road accidents.
+          🎯 Draw insights and provide recommendations to reduce road accidents.
 
 **📅 Scope of the Project:**
 
